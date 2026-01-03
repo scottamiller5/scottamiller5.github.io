@@ -3327,8 +3327,6 @@ input, select, textarea {
 				padding: 0 1.25em;
 			}
 
-		}
-
 	#banner {
 	    position: relative;
 	    width: 100%;
@@ -3350,4 +3348,4 @@ input, select, textarea {
 	#banner .inner p {
 	    font-size: 1.3rem;
 	    opacity: 0.9;
-	}
+	}	
